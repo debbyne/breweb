@@ -1,0 +1,7 @@
+*{
+    background-color: aliceblue;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+}

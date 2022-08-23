@@ -18,3 +18,6 @@ header{
 .navbar ul li:hover{
     transform: scale(1.09);
 }
+.image1{
+    margin-left: 55px;
+}

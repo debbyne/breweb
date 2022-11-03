@@ -1,12 +1,13 @@
 *{
     background-color: rgb(210, 213, 216);
     font-family: 'DynaPuff', cursive;
-
+    box-sizing: border-box;
 }
 header{
     text-align: center;
     font-family: 'DynaPuff', cursive;
 }
+
 .navbar{
 margin-left: 200px;
 

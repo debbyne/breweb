@@ -9,7 +9,8 @@ header{
 }
 
 .navbar{
-margin-left: 200px;
+  width: 550px;
+margin-left: 350px;
 
 }
 .navbar ul{
@@ -71,7 +72,7 @@ margin-left: 200px;
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: black;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
